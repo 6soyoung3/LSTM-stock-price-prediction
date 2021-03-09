@@ -12,7 +12,7 @@ python 3.8
   * tensorflow 2.4.1
   * keras 2.4.3
 ### Launch
-install all libraries required using pip3 and type jupyter notebook on terminal to open and run
+Install all libraries required using pip3 and type jupyter notebook on terminal to open and run
 
 ### Source
 This project is for only practicing and the source comes from https://www.youtube.com/watch?v=QIUxPv5PJOY&ab_channel=ComputerScience
